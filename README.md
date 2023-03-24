@@ -1,0 +1,2 @@
+# shellscrpt
+introdução do shell
